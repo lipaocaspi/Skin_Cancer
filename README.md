@@ -1,5 +1,4 @@
-# Skin Cancer
-### Identificación de lesiones cutáneas para la detección de melanomas.
+## Identificación de lesiones cutáneas para la detección de melanomas.
 
 ![Image text](https://github.com/lipaocaspi/Skin_Cancer/blob/main/Banner.png)
 
