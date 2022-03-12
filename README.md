@@ -1,6 +1,7 @@
 # Skin Cancer
 ### Título:
 Identificación de lesiones cutáneas para la detección de melanomas.
+
 ### Autores:
 Liliana Paola Castellanos Pinzón, Pedro Alfonso Jimenez Buenahora.
 ### Objetivo:
@@ -10,6 +11,6 @@ Liliana Paola Castellanos Pinzón, Pedro Alfonso Jimenez Buenahora.
 ### Modelos:
 
 ### Video:
-[]()
+[Youtube](https://www.youtube.com/)
 ### Código:
-[]()
+[Google Colab](https://colab.research.google.com/)
