@@ -2,16 +2,16 @@
 ### Título:
 Identificación de lesiones cutáneas para la detección de melanomas.
 
-### Autores:
+#### Autores:
 Liliana Paola Castellanos Pinzón, Pedro Alfonso Jimenez Buenahora.
-### Objetivo:
+#### Objetivo:
 
-### Dataset:
+#### Dataset:
 * Este dataset contiene 10015 imágenes dermatoscópicas de diferentes tipos de marcas cutáneas: [Skin Cancer MNIST: HAM10000](https://www.kaggle.com/kmader/skin-cancer-mnist-ham10000)
-### Modelos:
+#### Modelos:
 *
 *
-### Video:
+#### Video:
 * [Youtube](https://www.youtube.com/)
-### Código:
+#### Código:
 * [Google Colab](https://colab.research.google.com/)
