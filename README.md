@@ -2,6 +2,8 @@
 ### Título:
 Identificación de lesiones cutáneas para la detección de melanomas.
 
+![Image text](https://github.com/lipaocaspi/Skin_Cancer/blob/main/Banner.png)
+
 #### Autores:
 Liliana Paola Castellanos Pinzón, Pedro Alfonso Jimenez Buenahora.
 #### Objetivo:
