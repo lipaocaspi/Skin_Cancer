@@ -13,4 +13,4 @@ Realizar la clasificación de diferentes tipos de lesiones cutáneas a través d
 #### Video:
 * [Youtube](https://www.youtube.com/)
 #### Código:
-* [Google Colab](https://colab.research.google.com/)
+* [Google Colab](https://drive.google.com/drive/folders/1kIas992ySw_ZCuUdCauTSoiKY3r3Yg61?usp=sharing)
