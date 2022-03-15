@@ -10,7 +10,6 @@ Realizar la clasificación de diferentes tipos de lesiones cutáneas a través d
 * Este dataset contiene 10015 imágenes dermatoscópicas de diferentes tipos de marcas cutáneas: [Skin Cancer MNIST: HAM10000](https://www.kaggle.com/kmader/skin-cancer-mnist-ham10000)
 #### Modelos:
 * MobileNet V2
-*
 #### Video:
 * [Youtube](https://www.youtube.com/)
 #### Código:
