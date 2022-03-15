@@ -11,6 +11,6 @@ Realizar la clasificación de diferentes tipos de lesiones cutáneas a través d
 #### Modelos:
 * MobileNet V2
 #### Video:
-* [Youtube](https://www.youtube.com/)
+* [Youtube](https://drive.google.com/drive/folders/1PWf1hL7rrW2RX91swgWUmBg1EQEVoKC1?usp=sharing)
 #### Código:
 * [Google Colab](https://drive.google.com/drive/folders/1kIas992ySw_ZCuUdCauTSoiKY3r3Yg61?usp=sharing)
